@@ -1,1 +1,7 @@
 site_name: Race statistics
+
+theme:
+  name: material
+  custom_dir: overrides
+extra_css:
+  - assets/stylesheets/extra.css
