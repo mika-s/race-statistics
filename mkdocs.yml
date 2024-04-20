@@ -1,4 +1,5 @@
 site_name: Race statistics
+site_url: https://mika-s.github.io/race-statistics/
 
 theme:
   name: material
